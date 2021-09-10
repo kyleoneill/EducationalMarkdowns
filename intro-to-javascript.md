@@ -420,9 +420,9 @@ inputs. In the above snippet, `.isSquare()` and `.area()` are class functions.
 ## Name Conventions
 
 By now you might have noticed that variable and function names in example code have all followed the same naming convention. A name convention is the style used when
-naming variables, functions, and other data. Programming languages have standard naming conventions so programs can be more easily understood by everybody.
-Not following a naming conventions will not cause an error, but it is a good idea to stick to them. Each language follows a different convention.
-Naming conventions can also vary within a language for certain types of data.
+naming variables, functions, and other data. Programming languages have standard naming conventions so programs can be more easily understood between programmers.
+Not following a naming convention won't cause an error, but it is a good idea to stick to them. Every language uses a naming convention.
+Naming conventions can also vary within a language for certain types of data. There are four major naming conventions, they are listed below.
 
 | Naming Convention | Description                                                                                 | Example             |
 | ----------------- | ------------------------------------------------------------------------------------------- | ------------------- |
