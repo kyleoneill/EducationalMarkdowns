@@ -141,7 +141,7 @@ code in JavaScript will not cause an error as variables are not tied to any type
 // JavaScript
 var a = 10;
 a = "hello"; // This is valid code
-console.log(typeof a); // This will print "number"
+console.log(typeof a); // This will print "string" as the type has been changed
 ```
 
 ## Operators
