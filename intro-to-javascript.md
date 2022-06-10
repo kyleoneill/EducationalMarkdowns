@@ -210,7 +210,7 @@ arguments are true. A statement made using `or` will be true if either one of it
 | Operator | Description |
 | -------- | ----------- |
 | &&       | And         |
-| \|\|     | Or          |
+| ||       | Or          |
 | !        | Not         |
 
 Example:
@@ -251,7 +251,7 @@ let age = 10;
 if(age < 5) {
     // This block will not run
 }
-else if age < 7 {
+else if(age < 7) {
     // This block will not run
 }
 else {
