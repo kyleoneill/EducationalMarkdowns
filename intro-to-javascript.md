@@ -210,7 +210,7 @@ arguments are true. A statement made using `or` will be true if either one of it
 | Operator | Description |
 | -------- | ----------- |
 | &&       | And         |
-| ||       | Or          |
+| \|\|     | Or          |
 | !        | Not         |
 
 Example:
@@ -218,7 +218,7 @@ Example:
 ```js
 100 > 10 && 1000 > 500  // This line is true since it is a true statement AND a true statement
 100 > 10 && 1 > 100     // This line is false since it is a true statement AND a false statement
-100 > 10 \|\| 1 > 100   // This line is true since it is a true statement OR a false statement
+100 > 10 || 1 > 100   // This line is true since it is a true statement OR a false statement
 !true                   // This line is false since it is an inversion of a true statement
 ```
 
