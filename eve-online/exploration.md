@@ -49,7 +49,7 @@ site involves going from can to can in the site and playing the hacking minigame
 
 ### Safety
 The most commonly used safety module is the Covert Ops Cloaking Device. This module is fit in a high slot and allows your ship to fly and warp
-while invisible. While cloaked, your ship will not appear on D-scan. This module can only be fit on specific kinds of ships. The most commonly used
+while invisible. While cloaked, your ship will not appear on d-scan. This module can only be fit on specific kinds of ships. The most commonly used
 exploration ships with this device are the T2 Covert Ops frigates and the faction exploration frigate, the Astero.
 
 Exploration ships are typically fragile, especially the commonly used frigates. It is typical to fit them with Damage Control modules (which increase
