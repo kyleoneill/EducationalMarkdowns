@@ -1,6 +1,0 @@
-auth.json
-*.json
-
-secrets/*
-
-node_modules
