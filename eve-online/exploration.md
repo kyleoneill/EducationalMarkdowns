@@ -142,10 +142,20 @@ an expiration of 2 days.
 ## Staying Safe
 Exploration is dangerous. Exploration ships are valuable, easy to kill, and often contain expensive loot. That makes them a large target.
 
+### Positioning
+When you warp into a system do not sit on the warp gate or wormhole while you scan. It is best practice to make a temporary safe bookmark, but warping to a random planet/moon is generally good enough unless you have identified another player in system.
+
+### Safe Bookmark
+A "Safe" is a special kind of bookmark. A safe can be made by creating a bookmarp while you are in mid warp. A "True safe" is made by creating a safe, warping
+to it, and then creating a second safe using the first one as a starting location. A safe bookmark allows you to warp to a completely random spot in a system
+which nobody else can reach unless they have your bookmark or scan you down while you are at your safe. It is important to note that enemies can still scan
+you down if they have combat scanner probes and warp directly to you. Because of this, it is extremely important to still check d-scan while at a safe to see
+if any probes appear.
+
 ### Local Chat
-When exploring in low and null security space, you should keep local chat open. Be on guard if there are people you do not know in local chat. If somebody
-appears who has a red box next to their name, they are in a corporation we have identified as an enemy and are likely pirates and you should hide or leave
-immediately.
+When exploring in low and null security space, you should keep local chat open. Be on guard if there are people you do not know in local chat. If anybody
+in the local chat has a red box next to their name then they are in a corporation we have identified as an enemy and are likely pirates, you should hide
+or leave immediately.
 
 ### D-Scan
 The directional scanner is your best friend while exploring. The "V" key is the shortcut to d-scan, and you should be hitting it every 1-2 seconds if you
@@ -160,6 +170,11 @@ Keep in mind that this can be done to you.
 Wormholes do not have a populated local chat. This means that somebody else can be in a wormhole with you and they _will not_ appear on the local chat
 unless they type in it. Because of this, you must constantly be using your d-scan in a wormhole to check for enemy players. Do not speak in local chat, as
 it will alert other players in the wormhole of your presence.
+
+### Combat Scanner Probes
+Combat scanner probes are special scanner probes which have the same capability as core scanner probes, except they can also scan down players, drones,
+and player structures. If you see combat scanner probes on d-scan, especially if you are at a site or safe bookmark, assume that you are being hunted and
+leave or cloak immediately.
 
 ## Third Party Resources
 
