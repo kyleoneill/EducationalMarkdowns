@@ -31,7 +31,9 @@ The presence of hostile NPCs is indicated by the name of the site. If you are un
 in at 100km to be as far away from a hostile presence as possible.
 
 Generally, pirate data/relic sites in known space and C1, C2, or C3 wormholes do not contain hostile NPCs. Sleeper data/relic sites will contain
-enemies. Wormholes will never contain hostile NPCs, combat sites will contain enemies, and gas sites will sometimes contain NPCs.
+enemies. Combat sites will contain enemies. Gas sites will sometimes contain NPCs or turrets. Wormholes will sometimes have enemies sitting on them, but
+it is not common and will typically be inside of a higher classification
+hole.
 
 [Eve University has a page about this](https://wiki.eveuniversity.org/Relic_and_data_sites#Is_this_site_%22safe%22_to_warp_to?).
 
