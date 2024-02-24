@@ -3,28 +3,40 @@
 ## Sites
 
 The general gameplay loop of exploration is made up of scanning down sites, where a site is a pocket of space which contains enemies, loot,
-resources, or a wormhole.
+resources, or a wormhole. The goal can be multifaceted; generally exploration is done to make ISK, find other players to fight, or
+scanning down a path for allied ships.
 
 ### Combat
-A site filled with pirates which can contain valuable loot. Will typically need to be fought with a dedicated combat
+A site filled with pirates or sleepers which can contain valuable loot. They will typically need to be fought with a dedicated combat
 ship after being scanned down, and sometimes with assistance from other players.
 
 ### Gas
 A site filled with valuable gas. These sometimes spawn with enemies inside them, or powerful turrets. Empty gas sites
 will sometimes have enemies spawn 5-15 minutes after you begin mining, so keep an eye open for an NPC spawning on you.
+Gas must be mined with a dedicated gas module, normal mining lasers do not work.
 
 ### Wormholes
-Wormhole systems will always contain at least one wormhole, so you do not need to be afraid of becoming trapped as long
-as you have a scanner. More on wormholes in a little bit.
+Wormhole systems will always contain at least one wormhole, so you do not need to be afraid of being trapped as long
+as you have a scanner. More on wormholes below.
 
 ### Hacking
 There are two types of hacking sites, "data" and "relic" sites. Both sites tend to contain skill books and blueprint copies.
 Data sites also contain decryptors, data cores, and manufacturing materials. Relic sites contain salvage materials.
 
+These sites can contain almost nothing or materials worth a great deal of ISK. It's possible to make upwards of 100m ISK from a single
+wormhole data/relic site, if you get lucky.
+
 ### Is a Site Safe to Warp to?
-The presence of hostile NPCs is indicated by the name of the site.
+The presence of hostile NPCs is indicated by the name of the site. If you are unsure and want to warp to the site to check it out, warp
+in at 100km to be as far away from a hostile presence as possible.
+
+Generally, pirate data/relic sites in known space and C1, C2, or C3 wormholes do not contain hostile NPCs. Sleeper data/relic sites will contain
+enemies. Wormholes will never contain hostile NPCs, combat sites will contain enemies, and gas sites will sometimes contain NPCs.
 
 [Eve University has a page about this](https://wiki.eveuniversity.org/Relic_and_data_sites#Is_this_site_%22safe%22_to_warp_to?).
+
+**NOTE**: If you are warping with a stealth ship, warping to a gas cloud to check its safety will result in you getting uncloaked. Gas
+clouds are very spread out and, even when warping to the site at 100km, the cloud will be close enough to your ship to uncloak you.
 
 ## Modules
 
@@ -49,8 +61,9 @@ site involves going from can to can in the site and playing the hacking minigame
 
 ### Safety
 The most commonly used safety module is the Covert Ops Cloaking Device. This module is fit in a high slot and allows your ship to fly and warp
-while invisible. While cloaked, your ship will not appear on d-scan. This module can only be fit on specific kinds of ships. The most commonly used
-exploration ships with this device are the T2 Covert Ops frigates and the faction exploration frigate, the Astero.
+while invisible. While cloaked, your ship will not appear on d-scan can cannot be seen or locked onto by other players or NPCs. You will automatically
+by uncloaked if anything comes within ~2km of your ship. This module can only be fit on specific kinds of ships. The most commonly used exploration
+ships with this device are the T2 Covert Ops frigates and the faction exploration frigate, the Astero. 
 
 Exploration ships are typically fragile, especially the commonly used frigates. It is typical to fit them with Damage Control modules (which increase
 resistance to damage), warp core stabilizers (which protect from warp disruptors), and inertial stabilizers (which make it faster to enter warp).
@@ -63,7 +76,8 @@ be used again.
 ## Bookmarks
 Bookmarks allow you to save a location to find it later. Our corporation has a bookmarks folder which allows us to all use the same
 bookmarks. This is vital for fleet operations where one scout will scan down a site, like a wormhole, that other fleet members must go to. A bookmark
-can be created with the CTRL + B shortcut.
+can be created with the CTRL + B shortcut or by right clicking on an object
+and selecting "Save location".
 
 A gas, combat, or data/relic site can be saved with the automatically populated name.
 
@@ -157,6 +171,11 @@ When exploring in low and null security space, you should keep local chat open. 
 in the local chat has a red box next to their name then they are in a corporation we have identified as an enemy and are likely pirates, you should hide
 or leave immediately.
 
+#### Wormholes Vs. Low Sec
+Wormholes do not have a populated local chat. This means that somebody else can be in a wormhole with you and they _will not_ appear on the local chat
+unless they type in it. Because of this, you must constantly be using your d-scan in a wormhole to check for enemy players. Do not speak in local chat, as
+it will alert other players in the wormhole of your presence.
+
 ### D-Scan
 The directional scanner is your best friend while exploring. The "V" key is the shortcut to d-scan, and you should be hitting it every 1-2 seconds if you
 are in low/null sec with strangers in local chat and every time you are in wormhole space. When searching for threats, make sure the d-scanner is set to the
@@ -165,11 +184,6 @@ maximum range (14.3 AU) and the maximum angle (360 degrees). If you see an enemy
 The d-scanner can also be used to hunt and find other players. You can reduce its angle to "scan down" an enemy ship. Unlike scan probes, which are visible
 on d-scan, the d-scan itself cannot be traced. If you are in a cloaked ship you can d-scan an enemy down while leaving absolutely no trace of your presence.
 Keep in mind that this can be done to you.
-
-### Wormholes Vs. Low Sec
-Wormholes do not have a populated local chat. This means that somebody else can be in a wormhole with you and they _will not_ appear on the local chat
-unless they type in it. Because of this, you must constantly be using your d-scan in a wormhole to check for enemy players. Do not speak in local chat, as
-it will alert other players in the wormhole of your presence.
 
 ### Combat Scanner Probes
 Combat scanner probes are special scanner probes which have the same capability as core scanner probes, except they can also scan down players, drones,
